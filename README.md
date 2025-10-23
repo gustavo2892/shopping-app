@@ -18,5 +18,5 @@ Aplicação de uma lista de compras, que tem como principal objetivo treinar o u
 `git clone repositório`.
 3. Navegue até o diretório da aplicação `cd pasta-da-aplicação`.
 4. Rode `pnpm i` para instalar todas as dependências.
-6. Rode `pnpm run android` ou `pnpm run ios` de acordo com o emulador que está instalado na máquina.
-7. Caso não tenha nenhum emulador instalado, também é possível rodar a versão web com o comando `pnpm run web`.
+5. Rode `pnpm run android` ou `pnpm run ios` de acordo com o emulador que está instalado na máquina.
+6. Caso não tenha nenhum emulador instalado, também é possível rodar a versão web com o comando `pnpm run web`.
